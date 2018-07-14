@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APlicacion</string>
+    <string name="agregar_nuevo_contacto">Agregar Contacto</string>
+    <string name="lista_de_contactos">Lista de Contactos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
